@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HoPe.API.props" />
+</Project>

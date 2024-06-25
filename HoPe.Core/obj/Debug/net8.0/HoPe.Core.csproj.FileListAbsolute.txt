@@ -1,0 +1,11 @@
+C:\Estudo\ASPNET\HoPe\HoPe.Core\bin\Debug\net8.0\HoPe.Core.deps.json
+C:\Estudo\ASPNET\HoPe\HoPe.Core\bin\Debug\net8.0\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Core\bin\Debug\net8.0\HoPe.Core.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.AssemblyInfo.cs
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\refint\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\ref\HoPe.Core.dll

@@ -1,0 +1,17 @@
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Application.deps.json
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Application.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Application.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Infrastructure.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Core.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Application\bin\Debug\net8.0\HoPe.Infrastructure.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.csproj.AssemblyReference.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.AssemblyInfo.cs
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.App.0C221AA3.Up2Date
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\refint\HoPe.Application.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\ref\HoPe.Application.dll

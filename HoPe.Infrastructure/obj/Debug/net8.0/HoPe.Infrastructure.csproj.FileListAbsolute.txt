@@ -1,0 +1,17 @@
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Infrastructure.deps.json
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Infrastructure.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Infrastructure.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Core.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.AssemblyInfo.cs
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Inf.89E17BF6.Up2Date
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\refint\HoPe.Infrastructure.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.pdb
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\ref\HoPe.Infrastructure.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Infrastructure.runtimeconfig.json
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.genruntimeconfig.cache
