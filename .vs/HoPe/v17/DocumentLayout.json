@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Estudo\\ASPNET\\HoPe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC9FA17E-01E1-461E-AFA7-F568D9999E96}|HoPe.Infrastructure\\HoPe.Infrastructure.csproj|c:\\estudo\\aspnet\\hope\\hope.infrastructure\\persistence\\hopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9FA17E-01E1-461E-AFA7-F568D9999E96}|HoPe.Infrastructure\\HoPe.Infrastructure.csproj|solutionrelative:hope.infrastructure\\persistence\\hopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{182C5D83-884B-423D-B8F4-75A08FB6C976}|HoPe.API\\HoPe.API.csproj|c:\\estudo\\aspnet\\hope\\hope.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182C5D83-884B-423D-B8F4-75A08FB6C976}|HoPe.API\\HoPe.API.csproj|solutionrelative:hope.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182C5D83-884B-423D-B8F4-75A08FB6C976}|HoPe.API\\HoPe.API.csproj|c:\\estudo\\aspnet\\hope\\hope.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{182C5D83-884B-423D-B8F4-75A08FB6C976}|HoPe.API\\HoPe.API.csproj|solutionrelative:hope.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9FA17E-01E1-461E-AFA7-F568D9999E96}|HoPe.Infrastructure\\HoPe.Infrastructure.csproj|c:\\estudo\\aspnet\\hope\\hope.infrastructure\\persistence\\hopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9FA17E-01E1-461E-AFA7-F568D9999E96}|HoPe.Infrastructure\\HoPe.Infrastructure.csproj|solutionrelative:hope.infrastructure\\persistence\\hopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Estudo\\ASPNET\\HoPe\\HoPe.API\\appsettings.json",
               "RelativeDocumentMoniker": "HoPe.API\\appsettings.json",
@@ -34,12 +34,11 @@
               "RelativeToolTip": "HoPe.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-25T00:16:31.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T00:16:31.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudo\\ASPNET\\HoPe\\HoPe.API\\Program.cs",
               "RelativeDocumentMoniker": "HoPe.API\\Program.cs",
@@ -52,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HoPeDbContext.cs",
               "DocumentMoniker": "C:\\Estudo\\ASPNET\\HoPe\\HoPe.Infrastructure\\Persistence\\HoPeDbContext.cs",
               "RelativeDocumentMoniker": "HoPe.Infrastructure\\Persistence\\HoPeDbContext.cs",
               "ToolTip": "C:\\Estudo\\ASPNET\\HoPe\\HoPe.Infrastructure\\Persistence\\HoPeDbContext.cs",
               "RelativeToolTip": "HoPe.Infrastructure\\Persistence\\HoPeDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T00:16:56.729Z",
               "EditorCaption": ""

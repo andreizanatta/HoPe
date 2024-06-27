@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoPe.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d227066aa624f76e6ea6e79f6226aaaf2232c14b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoPe.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoPe.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
