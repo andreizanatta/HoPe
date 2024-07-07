@@ -9,3 +9,4 @@ C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.dll
 C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\refint\HoPe.Core.dll
 C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.pdb
 C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\ref\HoPe.Core.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Core\obj\Debug\net8.0\HoPe.Core.sourcelink.json

@@ -15,3 +15,4 @@ C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.p
 C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\ref\HoPe.Infrastructure.dll
 C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\bin\Debug\net8.0\HoPe.Infrastructure.runtimeconfig.json
 C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.genruntimeconfig.cache
+C:\Estudo\ASPNET\HoPe\HoPe.Infrastructure\obj\Debug\net8.0\HoPe.Infrastructure.sourcelink.json

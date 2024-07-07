@@ -22,6 +22,7 @@ namespace HoPe.Application.Services.Implementations
         {
             var pet = _dbContext.Pet.FirstOrDefault(pet => pet.Id == id);
             pet?.Disable();
+            _dbContext.SaveChanges();
         }
 
         public List<PetViewModel> Get(string query)
@@ -53,6 +54,7 @@ namespace HoPe.Application.Services.Implementations
             var pet = new Pet(createPetInputModel.Comment, createPetInputModel.Name);
 
             _dbContext.Pet.Add(pet);
+            _dbContext.SaveChanges();
             return pet.Id;
         }
 
@@ -60,6 +62,7 @@ namespace HoPe.Application.Services.Implementations
         {
             var pet = _dbContext.Pet.Single(r => r.Id == updatePetInputModel.Id);
             pet.Update(updatePetInputModel.Name, updatePetInputModel.Comment);
+            _dbContext.SaveChanges();
         }
     }
 }

@@ -140,3 +140,6 @@ C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Worksp
 C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudo\ASPNET\HoPe\HoPe.API\obj\Debug\net8.0\HoPe.API.sourcelink.json
+C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\MediatR.dll
+C:\Estudo\ASPNET\HoPe\HoPe.API\bin\Debug\net8.0\MediatR.Contracts.dll

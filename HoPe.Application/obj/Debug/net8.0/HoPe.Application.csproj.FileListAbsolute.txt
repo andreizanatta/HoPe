@@ -15,3 +15,4 @@ C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.dll
 C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\refint\HoPe.Application.dll
 C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.pdb
 C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\ref\HoPe.Application.dll
+C:\Estudo\ASPNET\HoPe\HoPe.Application\obj\Debug\net8.0\HoPe.Application.sourcelink.json
