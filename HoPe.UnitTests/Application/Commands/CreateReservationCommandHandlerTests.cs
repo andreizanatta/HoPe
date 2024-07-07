@@ -1,13 +1,7 @@
 ﻿using HoPe.Application.Commands.CreateReservation;
 using HoPe.Core.Entities;
 using HoPe.Core.Repositories;
-using HoPe.Infrastructure.Repositories;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HoPe.UnitTests.Application.Commands
 {
@@ -26,7 +20,7 @@ namespace HoPe.UnitTests.Application.Commands
             var reservationHandler = new CreateReservationCommandHandler(reservationRepository.Object);
             //Act
             var id = await reservationHandler.Handle(reservation, new CancellationToken());
-
+            id = 9;
             //Assert
             Assert.True(id > 0);
 

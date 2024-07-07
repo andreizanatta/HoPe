@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoPe.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44ae77cff23413cfbb432e8135bc687885955006")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24888061a31faf3ce3bb7305e7f03c4ce7398b6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoPe.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoPe.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
